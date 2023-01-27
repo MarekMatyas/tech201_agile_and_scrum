@@ -35,3 +35,9 @@ Team members can address problems while creatively delivering products.
 
 
 ![](screen_shot_2021-01-10_at_9.14.17_am%20(1).png)
+
+### Benefits of Scrum
+- Quicker release of usable products
+- Higher productivity
+- Lower costs
+- Completing complex projects in the most efficient way
