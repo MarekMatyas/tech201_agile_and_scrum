@@ -28,6 +28,9 @@ It is a team-based framework to develop complex systems and products.
 
 ## Framework
 
+Team members can address problems while creatively delivering products.
+
+
 
 
 
