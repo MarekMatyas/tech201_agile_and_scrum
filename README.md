@@ -14,7 +14,7 @@ It is a way to manage a project by breaking it up into several phases. It is a c
 - Sprint planning meetings
 - Team review
 - The backlog
-- Teams walls
+- Team walls
 - Trello
 
 
