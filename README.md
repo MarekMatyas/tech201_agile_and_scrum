@@ -54,3 +54,5 @@ Inspection can be done for product, processes, people aspects and practices.
 ### 3.Adaptation
 This is about continuous improvement to adapt based on the results of the inspection, everyone should reflect on how to improve.
 
+
+![](Scrum-tEAM-min-1-1.png)
