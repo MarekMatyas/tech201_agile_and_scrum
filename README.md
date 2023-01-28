@@ -4,11 +4,11 @@ Agile and scrum presentaion.
 
 Agile is an approach to project management and software development that helps teams deliver value to their customers faster and with fewer defects.
 
-### Methodology 
+### *Methodology* 
 It is a way to manage a project by breaking it up into several phases. It is a constant collaboration with stakeholders and continuous improvement.
 
 
-### Techniques
+### *Techniques*
 
 - Daily stand-up
 - Sprint planning meetings
@@ -70,7 +70,8 @@ Ensures that the team keeps to the value of Scrum, facilitates meetings and remo
 - Decides how the work will be done 
 - Everyone is accountable 
 
-
+## Three Amigos 
+Agile software development teams often adopt what is called a Three Amigos approach, which combines the **perspectives of business, development and quality assurance** for sprint planning and evaluation 
 
 # Benefits of Scrum
 - Quicker release of usable products
