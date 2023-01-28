@@ -54,5 +54,20 @@ Inspection can be done for product, processes, people aspects and practices.
 ### 3.Adaptation
 This is about continuous improvement to adapt based on the results of the inspection, everyone should reflect on how to improve.
 
-
+# Scrum roles
 ![](Scrum-tEAM-min-1-1.png)
+
+### Product owner
+Key stakeholder who should have a deep understanding of the product and communicates with both team and other stakeholders.
+
+### Scrum Master 
+Ensures that the team keeps to the value of Scrum, facilitates meetings and removes impediments.
+
+### Development team
+- Effectively 3-9 people
+- Decides how the work will be done 
+- Everyone is accountable 
+
+
+
+# Benefits of Scrum
