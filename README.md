@@ -23,6 +23,13 @@ It is a way to manage a project by breaking it up into several phases. It is a c
 - Software developers collaborated and experimented with new ways of working
 - They took ideas and wrote down a set of underlying values and principles
 
+### Benefits of Agile
+
+- Streamline proofing and reporting for seamless campaigns.
+- Take control of billable hours and increase client satisfaction.
+- Plan Agile projects, track deadlines and deliver results
+- Create high-quality assets and get them approved in record time.
+
 # Scrum
 It is a team-based framework to develop complex systems and products.
 
@@ -36,11 +43,6 @@ Team members can address problems while creatively delivering products.
 
 ![](screen_shot_2021-01-10_at_9.14.17_am%20(1).png)
 
-### Benefits of Scrum
-- Quicker release of usable products
-- Higher productivity
-- Lower costs
-- Completing complex projects in the most efficient way
 
 # Three pillars of Scrum
 
@@ -71,3 +73,7 @@ Ensures that the team keeps to the value of Scrum, facilitates meetings and remo
 
 
 # Benefits of Scrum
+- Quicker release of usable products
+- Lower costs
+- Time saving
+- Better employee morale
