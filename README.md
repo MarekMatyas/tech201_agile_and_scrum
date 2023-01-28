@@ -71,8 +71,8 @@ Ensures that the team keeps to the value of Scrum, facilitates meetings and remo
 - Everyone is accountable 
 
 ## Three Amigos 
-Agile software development teams often adopt what is called a Three Amigos approach, which combines the **perspectives of business, development and quality assurance** for sprint planning and evaluation 
-
+Agile software development teams often adopt what is called a Three Amigos approach, which combines the **perspectives of business, development and quality assurance** for sprint planning and evaluation. 
+![](3-amigos.webp)
 # Benefits of Scrum
 - Quicker release of usable products
 - Lower costs
