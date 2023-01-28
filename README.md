@@ -46,26 +46,26 @@ Team members can address problems while creatively delivering products.
 
 # Three pillars of Scrum
 
-###  1.Transparency
+###  1.*Transparency*
 Everyone presents the facts as is and collaborates for the common objective.
 
-### 1.Inspection
+### 1.*Inspection*
 Not done by the inspector but by everyone on the Scrum team.
 Inspection can be done for product, processes, people aspects and practices.
 
-### 3.Adaptation
+### 3.*Adaptation*
 This is about continuous improvement to adapt based on the results of the inspection, everyone should reflect on how to improve.
 
 # Scrum roles
 ![](Scrum-tEAM-min-1-1.png)
 
-### Product owner
+### *Product owner*
 Key stakeholder who should have a deep understanding of the product and communicates with both team and other stakeholders.
 
-### Scrum Master 
+### *Scrum Master* 
 Ensures that the team keeps to the value of Scrum, facilitates meetings and removes impediments.
 
-### Development team
+### *Development team*
 - Effectively 3-9 people
 - Decides how the work will be done 
 - Everyone is accountable 
