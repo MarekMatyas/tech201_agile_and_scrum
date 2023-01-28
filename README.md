@@ -40,4 +40,17 @@ Team members can address problems while creatively delivering products.
 - Quicker release of usable products
 - Higher productivity
 - Lower costs
-- Completing complex projects in the most efficient wayhello
+- Completing complex projects in the most efficient way
+
+# Three pillars of Scrum
+
+###  1.Transparency
+Everyone presents the facts as is and collaborates for the common objective.
+
+### 1.Inspection
+Not done by the inspector but by everyone on the Scrum team.
+Inspection can be done for product, processes, people aspects and practices.
+
+### 3.Adaptation
+This is about continuous improvement to adapt based on the results of the inspection, everyone should reflect on how to improve.
+
